@@ -20,11 +20,7 @@ public class LinkedListExample {
 		
 		((LinkedList)numberList).addFirst(1);
 		((LinkedList)numberList).addLast(99);
-		
-		
-		
-	
-		
+
 
 	}
 

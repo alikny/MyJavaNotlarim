@@ -8,7 +8,11 @@ public class Dog extends Animal{
 		System.out.println("Dog food");
 	}
 
-	
+
+	public Dog(int age) {
+		super(age);
+	}
+
 	@Override
 	void breathe() {
 		// TODO Auto-generated method stub

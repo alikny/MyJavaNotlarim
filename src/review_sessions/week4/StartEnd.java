@@ -1,6 +1,6 @@
 package review_sessions.week4;
 
-import jdk.management.resource.internal.inst.SocketOutputStreamRMHooks;
+
 
 public class StartEnd {
 
@@ -16,7 +16,7 @@ public class StartEnd {
 		*/
 		
 		int n;
-		for(n = end ; n<start ; n--) {
+		for(n = end ; n < start ; n--) {
 			System.out.println(n);
 		}
 		

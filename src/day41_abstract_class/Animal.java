@@ -1,6 +1,9 @@
 package day41_abstract_class;
 
 public abstract class Animal {
+//	public Animal(){
+//
+//	}
 	
 	//Instance variable
 	String name;
