@@ -1,4 +1,4 @@
-package day21_stringManipulation_part3;
+package src.day21_stringManipulation_part3;
 
 public class String_Trim {
 

@@ -1,4 +1,4 @@
-package day44_oopreview.shapes;
+package src.day44_oopreview.shapes;
 
 public class Square extends Shape {
 	

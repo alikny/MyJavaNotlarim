@@ -1,4 +1,4 @@
-package day8_controlFlowStatements_Part2;
+package src.day8_controlFlowStatements_Part2;
 
 public class task36_Calculator {
 

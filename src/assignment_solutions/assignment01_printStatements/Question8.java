@@ -1,4 +1,4 @@
-package assignment_solutions.assignment01_printStatements;
+package src.assignment_solutions.assignment01_printStatements;
 
 public class Question8 {
 

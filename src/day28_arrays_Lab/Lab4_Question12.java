@@ -1,4 +1,4 @@
-package day28_arrays_Lab;
+package src.day28_arrays_Lab;
 
 public class Lab4_Question12 {
 

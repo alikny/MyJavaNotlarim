@@ -1,4 +1,4 @@
-package day9_controlFlowStatements_Part3;
+package src.day9_controlFlowStatements_Part3;
 
 public class IfElseRules {
 

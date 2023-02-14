@@ -1,4 +1,4 @@
-package day47_collection_part2;
+package src.day47_collection_part2;
 
 import java.util.List;
 import java.util.Vector;

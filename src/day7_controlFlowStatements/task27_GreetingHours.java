@@ -1,4 +1,4 @@
-package day7_controlFlowStatements;
+package src.day7_controlFlowStatements;
 
 public class task27_GreetingHours {
 

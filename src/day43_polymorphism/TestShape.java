@@ -1,4 +1,4 @@
-package day43_polymorphism;
+package src.day43_polymorphism;
 
 public class TestShape {
 

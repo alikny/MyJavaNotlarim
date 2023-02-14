@@ -1,4 +1,4 @@
-package review_sessions.week3;
+package src.review_sessions.week3;
 
 import java.util.Scanner;  //step-1
 

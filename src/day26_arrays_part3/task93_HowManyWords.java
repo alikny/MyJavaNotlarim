@@ -1,4 +1,4 @@
-package day26_arrays_part3;
+package src.day26_arrays_part3;
 
 public class task93_HowManyWords {
 

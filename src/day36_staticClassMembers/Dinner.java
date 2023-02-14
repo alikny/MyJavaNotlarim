@@ -1,4 +1,4 @@
-package day36_staticClassMembers;
+package src.day36_staticClassMembers;
 
 public class Dinner {
 	

@@ -1,4 +1,4 @@
-package day4_arithmeticOperators;
+package src.day4_arithmeticOperators;
 
 
 //This program calculates hourly Wages plus overtime

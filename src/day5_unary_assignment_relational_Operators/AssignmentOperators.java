@@ -1,4 +1,4 @@
-package day5_unary_assignment_relational_Operators;
+package src.day5_unary_assignment_relational_Operators;
 
 public class AssignmentOperators {
 

@@ -1,8 +1,8 @@
-package day48_collection_part3;
+package src.day48_collection_part3;
 
 import java.util.*;
 
-import day46_collection_part1.Product;
+import src.day46_collection_part1.Product;
 
 public class LoopMap {
 

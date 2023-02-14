@@ -1,4 +1,4 @@
-package review_sessions.week1;
+package src.review_sessions.week1;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package day34_Constructors;
+package src.day34_Constructors;
 
 public class DiceTest {
 

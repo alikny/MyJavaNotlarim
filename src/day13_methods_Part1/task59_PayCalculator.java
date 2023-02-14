@@ -1,4 +1,4 @@
-package day13_methods_Part1;
+package src.day13_methods_Part1;
 
 
 public class task59_PayCalculator {

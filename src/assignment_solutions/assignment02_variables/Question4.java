@@ -1,4 +1,4 @@
-package assignment_solutions.assignment02_variables;
+package src.assignment_solutions.assignment02_variables;
 
 /*Assume that word is a String variable and already has a value.
 Write a statement to display the message "Today's Word-Of-The-Day is: " followed by the value of the word.

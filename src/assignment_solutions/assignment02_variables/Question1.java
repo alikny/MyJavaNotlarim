@@ -1,4 +1,4 @@
-package assignment_solutions.assignment02_variables;
+package src.assignment_solutions.assignment02_variables;
 
 /*
  * Declare and initialize an integer variable called count, and write a statement 

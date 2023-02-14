@@ -1,4 +1,4 @@
-package day22_stringManipulation_Lab;
+package src.day22_stringManipulation_Lab;
 
 public class Question_9 {
 

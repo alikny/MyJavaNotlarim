@@ -1,4 +1,4 @@
-package day20_stringManipulation_part2;
+package src.day20_stringManipulation_part2;
 
 public class task80_CheckString {
 

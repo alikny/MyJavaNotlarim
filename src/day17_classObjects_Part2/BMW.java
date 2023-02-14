@@ -1,4 +1,4 @@
-package day17_classObjects_Part2;
+package src.day17_classObjects_Part2;
 
 public class BMW {
 	

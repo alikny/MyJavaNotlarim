@@ -1,4 +1,4 @@
-package day18_readingUserInput;
+package src.day18_readingUserInput;
 
 import java.util.Scanner;
 

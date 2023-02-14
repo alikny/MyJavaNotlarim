@@ -1,4 +1,4 @@
-package day35_encapsulation;
+package src.day35_encapsulation;
 
 /*
 Write a class with the name Floor. The class needs two fields (instance variables) with name width and length of type double.

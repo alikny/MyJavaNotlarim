@@ -1,4 +1,4 @@
-package day25_arrays_part2;
+package src.day25_arrays_part2;
 
 public class ForEachLoop {
 

@@ -1,4 +1,4 @@
-package day33_ClassObjects_Constructors;
+package src.day33_ClassObjects_Constructors;
 
 public class StudentTest {
 

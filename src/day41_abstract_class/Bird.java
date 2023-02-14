@@ -1,4 +1,4 @@
-package day41_abstract_class;
+package src.day41_abstract_class;
 
 public abstract class Bird extends Animal {
 	public Bird(int age) {

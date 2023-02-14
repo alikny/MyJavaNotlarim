@@ -1,4 +1,4 @@
-package day36_staticClassMembers;
+package src.day36_staticClassMembers;
 
 import static java.lang.Math.*; //packageName.className.elements(variables or methods)
 

@@ -1,4 +1,4 @@
-package OwnMyOwnStudy;
+package src.OwnMyOwnStudy;
 
 import java.util.Arrays;
 import java.util.List;

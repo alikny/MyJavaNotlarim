@@ -1,4 +1,4 @@
-package day45_exceptionHandling;
+package src.day45_exceptionHandling;
 
 public class TyCatch2 {
 

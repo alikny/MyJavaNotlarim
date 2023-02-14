@@ -1,4 +1,4 @@
-package assignment_solutions.assignment06_nested_forLoop;
+package src.assignment_solutions.assignment06_nested_forLoop;
 
 public class Question4 {
 

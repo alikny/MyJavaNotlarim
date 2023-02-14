@@ -1,4 +1,4 @@
-package day37_inheritance;
+package src.day37_inheritance;
 
 public class FinalExam extends GradeActivity {
 

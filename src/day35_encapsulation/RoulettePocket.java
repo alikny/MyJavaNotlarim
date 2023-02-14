@@ -1,4 +1,4 @@
-package day35_encapsulation;
+package src.day35_encapsulation;
 
 public class RoulettePocket {
 	

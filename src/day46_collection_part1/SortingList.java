@@ -1,4 +1,4 @@
-package day46_collection_part1;
+package src.day46_collection_part1;
 
 import java.util.*;
 

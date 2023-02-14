@@ -1,4 +1,4 @@
-package day42_interface;
+package src.day42_interface;
 
 public class Tesla2 extends Vehicle implements Electric,SelfDriving {
 

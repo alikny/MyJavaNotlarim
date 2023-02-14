@@ -1,4 +1,4 @@
-package day6_logicalOperators;
+package src.day6_logicalOperators;
 
 public class task23_operators {
 

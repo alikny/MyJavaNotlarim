@@ -1,4 +1,4 @@
-package assignment_solutions.assignment05_forLoop;
+package src.assignment_solutions.assignment05_forLoop;
 
 public class Question6 {
 	

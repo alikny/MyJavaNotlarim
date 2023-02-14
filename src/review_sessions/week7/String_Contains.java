@@ -1,4 +1,4 @@
-package review_sessions.week7;
+package src.review_sessions.week7;
 
 public class String_Contains {
 

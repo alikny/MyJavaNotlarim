@@ -1,4 +1,4 @@
-package day49_upskills;
+package src.day49_upskills;
 
 @FunctionalInterface
 public interface StringFunctions {

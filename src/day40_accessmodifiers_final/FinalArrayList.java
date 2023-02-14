@@ -1,4 +1,4 @@
-package day40_accessmodifiers_final;
+package src.day40_accessmodifiers_final;
 
 import java.util.ArrayList;
 

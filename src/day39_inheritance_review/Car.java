@@ -1,4 +1,4 @@
-package day39_inheritance_review;
+package src.day39_inheritance_review;
 
 public class Car extends Vehicle {
 

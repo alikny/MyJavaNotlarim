@@ -1,4 +1,4 @@
-package day6_logicalOperators;
+package src.day6_logicalOperators;
 
 import javax.sound.midi.Soundbank;
 
