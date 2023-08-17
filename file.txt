@@ -19,3 +19,6 @@ ssh  at 2023-08-17 10:41:48
 Added at 2023-08-17 10:42:01
 /Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
 ssh-add ~/.ssh/alikey
+Added at 2023-08-17 10:42:12
+/Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
+ssh-add ~/.ssh/alikey
