@@ -11,3 +11,5 @@ Added at 2023-08-17 10:45:08
 ssh  at 2023-08-17 10:47:00
 Added at 2023-08-17 10:49:00
 /Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
+Added at 2023-08-17 12:00:01
+/Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
