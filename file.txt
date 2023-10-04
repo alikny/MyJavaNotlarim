@@ -503,3 +503,5 @@ Added at 2023-10-04 17:00:00
 /Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
 Added at 2023-10-04 18:00:00
 /Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
+Added at 2023-10-04 19:00:00
+/Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
