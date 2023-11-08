@@ -971,3 +971,5 @@ Added at 2023-11-08 10:00:00
 /Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
 Added at 2023-11-08 11:00:00
 /Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
+Added at 2023-11-08 14:00:00
+/Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
