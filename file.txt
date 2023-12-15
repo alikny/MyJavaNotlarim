@@ -1463,3 +1463,5 @@ Added at 2023-12-15 13:00:01
 /Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
 Added at 2023-12-15 14:00:00
 /Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
+Added at 2023-12-15 15:00:00
+/Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
