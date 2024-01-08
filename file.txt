@@ -1711,3 +1711,5 @@ Added at 2024-01-05 21:00:00
 /Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
 Added at 2024-01-08 10:00:01
 /Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
+Added at 2024-01-08 11:00:00
+/Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
