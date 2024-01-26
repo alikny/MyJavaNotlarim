@@ -1983,3 +1983,5 @@ Added at 2024-01-26 12:00:00
 /Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
 Added at 2024-01-26 13:00:01
 /Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
+Added at 2024-01-26 14:00:01
+/Users/Ali.Konya/IdeaProjects/MyJavaNotlarim
