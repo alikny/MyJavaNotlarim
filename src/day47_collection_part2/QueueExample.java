@@ -1,4 +1,4 @@
-package src.day47_collection_part2;
+package day47_collection_part2;
 
 import java.util.LinkedList;
 import java.util.Queue;

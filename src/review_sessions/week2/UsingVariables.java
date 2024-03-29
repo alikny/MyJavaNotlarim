@@ -1,4 +1,4 @@
-package src.review_sessions.week2;
+package review_sessions.week2;
 
 public class UsingVariables {
 

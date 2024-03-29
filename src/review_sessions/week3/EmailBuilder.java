@@ -1,6 +1,6 @@
-package src.review_sessions.week3;
+package review_sessions.week3;
 
-import java.util.Scanner;  //step-1
+import java.util.Scanner;
 
 public class EmailBuilder {
 

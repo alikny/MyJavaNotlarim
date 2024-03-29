@@ -1,4 +1,4 @@
-package src.day7_controlFlowStatements;
+package day7_controlFlowStatements;
 
 public class IfElseStatement {
 

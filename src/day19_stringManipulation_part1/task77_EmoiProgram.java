@@ -1,4 +1,4 @@
-package src.day19_stringManipulation_part1;
+package day19_stringManipulation_part1;
 
 public class task77_EmoiProgram {
 

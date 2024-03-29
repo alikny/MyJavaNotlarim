@@ -1,4 +1,4 @@
-package src.day23_stringManipulationLab_randomClasss;
+package day23_stringManipulationLab_randomClasss;
 
 import java.util.Random;
 import java.util.Scanner;

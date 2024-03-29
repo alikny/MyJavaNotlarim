@@ -1,4 +1,4 @@
-package src.day43_polymorphism;
+package day43_polymorphism;
 
 public class InstanceOf {
 

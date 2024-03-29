@@ -1,6 +1,6 @@
-package src.review_sessions.week6;
+package review_sessions.week6;
 
-import java.util.Scanner; //I am using a class which belong to different package
+import java.util.Scanner;
 
 public class UserInput {
 

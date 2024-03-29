@@ -1,4 +1,4 @@
-package src.day11_controlFlowStatements_Part5;
+package day11_controlFlowStatements_Part5;
 
 public class NestedForLoop {
 

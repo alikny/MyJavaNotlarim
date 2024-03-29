@@ -1,4 +1,4 @@
-package src.day38_inheritance_part2;
+package day38_inheritance_part2;
 
 public class SubClass extends SuperClass {
 

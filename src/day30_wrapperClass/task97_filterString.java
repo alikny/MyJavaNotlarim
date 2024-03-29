@@ -1,4 +1,4 @@
-package src.day30_wrapperClass;
+package day30_wrapperClass;
 
 public class task97_filterString {
 

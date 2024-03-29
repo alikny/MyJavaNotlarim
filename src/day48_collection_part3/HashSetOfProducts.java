@@ -1,9 +1,9 @@
-package src.day48_collection_part3;
+package day48_collection_part3;
+
+import src.day46_collection_part1.Product;
 
 import java.util.Set;
 import java.util.TreeSet;
-
-import src.day46_collection_part1.Product;
 
 public class HashSetOfProducts {
 

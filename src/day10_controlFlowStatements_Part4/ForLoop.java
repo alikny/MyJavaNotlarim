@@ -1,4 +1,4 @@
-package src.day10_controlFlowStatements_Part4;
+package day10_controlFlowStatements_Part4;
 
 public class ForLoop {
 

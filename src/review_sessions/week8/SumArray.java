@@ -1,4 +1,4 @@
-package src.review_sessions.week8;
+package review_sessions.week8;
 
 public class SumArray {
 

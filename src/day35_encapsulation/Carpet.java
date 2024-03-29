@@ -1,4 +1,4 @@
-package src.day35_encapsulation;
+package day35_encapsulation;
 
 /*
  * Write a class with the name Carpet. The class needs one field (instance variable) with name cost of type double.

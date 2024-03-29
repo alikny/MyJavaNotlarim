@@ -1,4 +1,4 @@
-package src.day16_classObejcts;
+package day16_classObejcts;
 
 public class Dog {
 	

@@ -1,4 +1,4 @@
-package src.day40_accessmodifiers_final_2;
+package day40_accessmodifiers_final_2;
 
 import src.day40_accessmodifiers_final.Car;
 

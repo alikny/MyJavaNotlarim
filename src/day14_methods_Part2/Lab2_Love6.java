@@ -1,4 +1,4 @@
-package src.day14_methods_Part2;
+package day14_methods_Part2;
 
 public class Lab2_Love6 {
 	

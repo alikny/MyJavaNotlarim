@@ -1,4 +1,4 @@
-package src.day44_oopreview.shapes;
+package day44_oopreview.shapes;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package src.day12_controlFlowStatements_Part6;
+package day12_controlFlowStatements_Part6;
 
 public class BreakContinue {
 

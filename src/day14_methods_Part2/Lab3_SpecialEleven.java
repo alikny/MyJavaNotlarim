@@ -1,4 +1,4 @@
-package src.day14_methods_Part2;
+package day14_methods_Part2;
 
 /*
 We'll say a number is special if it is a multiple of 11 or if it is one more than a multiple of 11. 

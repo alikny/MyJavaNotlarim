@@ -1,4 +1,4 @@
-package src.day46_collection_part1;
+package day46_collection_part1;
 
 public class Product implements Comparable<Product> {
 	

@@ -1,4 +1,4 @@
-package src.assignment_solutions.assignment02_variables;
+package assignment_solutions.assignment02_variables;
 
 /*
  * Declare two variables. One of them integer called num and the other one is double called cost. 

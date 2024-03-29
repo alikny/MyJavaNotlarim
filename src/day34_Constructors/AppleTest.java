@@ -1,4 +1,4 @@
-package src.day34_Constructors;
+package day34_Constructors;
 
 public class AppleTest {
 

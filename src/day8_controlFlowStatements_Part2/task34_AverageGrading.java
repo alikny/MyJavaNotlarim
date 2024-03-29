@@ -1,4 +1,4 @@
-package src.day8_controlFlowStatements_Part2;
+package day8_controlFlowStatements_Part2;
 
 public class task34_AverageGrading {
 

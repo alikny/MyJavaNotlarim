@@ -1,4 +1,4 @@
-package src.day9_controlFlowStatements_Part3;
+package day9_controlFlowStatements_Part3;
 
 public class task38_DaySelector {
 

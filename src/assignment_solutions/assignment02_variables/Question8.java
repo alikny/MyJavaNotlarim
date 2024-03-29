@@ -1,4 +1,4 @@
-package src.assignment_solutions.assignment02_variables;
+package assignment_solutions.assignment02_variables;
 
 /*
  * Declare and assign 2 String variables.

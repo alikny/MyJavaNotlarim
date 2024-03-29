@@ -1,6 +1,8 @@
-package src.day46_collection_part1;
+package day46_collection_part1;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 public class SortingList {
 

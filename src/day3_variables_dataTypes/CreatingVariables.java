@@ -1,4 +1,4 @@
-package src.day3_variables_dataTypes;
+package day3_variables_dataTypes;
 
 public class CreatingVariables {
 

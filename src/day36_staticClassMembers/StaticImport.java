@@ -1,8 +1,7 @@
-package src.day36_staticClassMembers;
+package day36_staticClassMembers;
 
-import static java.lang.Math.*; //packageName.className.elements(variables or methods)
-
-import java.util.*; //packageName.className
+import static java.lang.Math.PI;
+import static java.lang.Math.sqrt;
 
 public class StaticImport {
 

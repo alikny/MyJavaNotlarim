@@ -1,4 +1,4 @@
-package src.day32_arrayList_part2;
+package day32_arrayList_part2;
 
 import java.util.ArrayList;
 

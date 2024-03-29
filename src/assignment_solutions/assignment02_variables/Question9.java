@@ -1,4 +1,4 @@
-package src.assignment_solutions.assignment02_variables;
+package assignment_solutions.assignment02_variables;
 
 /*
  * Declare a byte variable named steps and assign 100

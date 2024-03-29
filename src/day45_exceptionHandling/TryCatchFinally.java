@@ -1,4 +1,4 @@
-package src.day45_exceptionHandling;
+package day45_exceptionHandling;
 
 public class TryCatchFinally {
 

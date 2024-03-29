@@ -1,6 +1,4 @@
-package src.day30_wrapperClass;
-
-import java.util.Arrays;
+package day30_wrapperClass;
 
 public class task96_ConvertingTemp {
 

@@ -1,4 +1,4 @@
-package src.day36_staticClassMembers;
+package day36_staticClassMembers;
 
 public class Countable {
 	

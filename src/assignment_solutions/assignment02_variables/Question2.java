@@ -1,4 +1,4 @@
-package src.assignment_solutions.assignment02_variables;
+package assignment_solutions.assignment02_variables;
 
 //Declare and initialize a String variable called message, 
 //and write a statement to display its value to console.

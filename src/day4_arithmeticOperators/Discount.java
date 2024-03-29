@@ -1,4 +1,4 @@
-package src.day4_arithmeticOperators;
+package day4_arithmeticOperators;
 
 public class Discount {
 

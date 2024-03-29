@@ -1,6 +1,7 @@
-package src.day24_arrays_part1;
+package day24_arrays_part1;
 
-import java.util.*;
+import java.util.Random;
+import java.util.Scanner;
 
 public class task88_CarPrice {
 

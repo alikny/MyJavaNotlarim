@@ -1,6 +1,7 @@
-package src.day48_collection_part3;
+package day48_collection_part3;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 
 public class MapExample {

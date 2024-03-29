@@ -1,4 +1,4 @@
-package src.day13_methods_Part1;
+package day13_methods_Part1;
 
 public class LoopCallMethod {
 

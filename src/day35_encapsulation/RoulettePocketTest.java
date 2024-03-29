@@ -1,4 +1,4 @@
-package src.day35_encapsulation;
+package day35_encapsulation;
 
 import java.util.Scanner;
 

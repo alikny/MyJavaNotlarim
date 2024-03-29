@@ -1,9 +1,9 @@
-package src.day44_oopreview.shapes;
-
-import static src.day44_oopreview.shapes.ShapeManager.*;
+package day44_oopreview.shapes;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import static src.day44_oopreview.shapes.ShapeManager.*;
 
 public class ShapeActions {
 	

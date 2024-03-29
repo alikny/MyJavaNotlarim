@@ -1,4 +1,4 @@
-package src.assignment_solutions.assignment04_selection_statements;
+package assignment_solutions.assignment04_selection_statements;
 
 public class Question10 {
 

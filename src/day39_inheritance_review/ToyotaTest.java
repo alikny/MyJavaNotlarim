@@ -1,4 +1,4 @@
-package src.day39_inheritance_review;
+package day39_inheritance_review;
 
 public class ToyotaTest {
 

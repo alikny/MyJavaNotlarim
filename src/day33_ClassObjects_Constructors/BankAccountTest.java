@@ -1,4 +1,4 @@
-package src.day33_ClassObjects_Constructors;
+package day33_ClassObjects_Constructors;
 
 import java.util.Scanner;
 

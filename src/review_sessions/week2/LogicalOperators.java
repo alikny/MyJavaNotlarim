@@ -1,6 +1,4 @@
-package src.review_sessions.week2;
-
-import javax.sound.midi.Soundbank;
+package review_sessions.week2;
 
 public class LogicalOperators {
 

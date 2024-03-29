@@ -1,4 +1,4 @@
-package src.assignment_solutions.assignment02_variables;
+package assignment_solutions.assignment02_variables;
 
 /*
  * Five friends are going to the theater. They have purchased a row of five seats with an aisle on either end.

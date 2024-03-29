@@ -1,4 +1,4 @@
-package src.day29_arrays_Lab;
+package day29_arrays_Lab;
 
 import java.util.Arrays;
 

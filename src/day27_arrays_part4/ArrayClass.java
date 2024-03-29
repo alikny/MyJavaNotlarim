@@ -1,7 +1,6 @@
-package src.day27_arrays_part4;
+package day27_arrays_part4;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class ArrayClass {
 

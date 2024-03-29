@@ -1,2 +1,2 @@
-package src.day49_upskills;public class SupplierFunctionalInterface {
+package day49_upskills;public class SupplierFunctionalInterface {
 }

@@ -1,4 +1,4 @@
-package src.day2_printing_comments;
+package day2_printing_comments;
 
 public class task1_triangle {
 

@@ -1,4 +1,4 @@
-package src.review_sessions.week1;
+package review_sessions.week1;
 
 public class PrimitiveVariables {
 

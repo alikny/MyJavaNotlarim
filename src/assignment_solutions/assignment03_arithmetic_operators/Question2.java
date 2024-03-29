@@ -1,4 +1,4 @@
-package src.assignment_solutions.assignment03_arithmetic_operators;
+package assignment_solutions.assignment03_arithmetic_operators;
 
 /*
 

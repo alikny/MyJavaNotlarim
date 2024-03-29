@@ -1,4 +1,4 @@
-package src.assignment_solutions.assignment02_variables;
+package assignment_solutions.assignment02_variables;
 
 /*
  * Declare and initialize two variables called first and second. Write a single statement that will 

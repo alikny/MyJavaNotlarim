@@ -1,4 +1,4 @@
-package src.day40_accessmodifiers_final;
+package day40_accessmodifiers_final;
 
 public class Marsupial {
 	

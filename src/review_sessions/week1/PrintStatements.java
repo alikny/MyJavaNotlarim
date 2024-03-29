@@ -1,6 +1,4 @@
-package src.review_sessions.week1;
-
-import java.time.LocalDate;
+package review_sessions.week1;
 
 public class PrintStatements {
 

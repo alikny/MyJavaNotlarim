@@ -1,4 +1,4 @@
-package src.review_sessions.week9;
+package review_sessions.week9;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package src.day26_arrays_part3;
+package day26_arrays_part3;
 
 import java.util.Arrays;
 

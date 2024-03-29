@@ -1,4 +1,4 @@
-package src.day41_abstract_class;
+package day41_abstract_class;
 
 public class Dog extends Animal{
 

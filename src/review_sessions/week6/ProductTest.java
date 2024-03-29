@@ -1,4 +1,4 @@
-package src.review_sessions.week6;
+package review_sessions.week6;
 
 public class ProductTest {
 

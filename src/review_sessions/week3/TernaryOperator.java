@@ -1,4 +1,4 @@
-package src.review_sessions.week3;
+package review_sessions.week3;
 
 public class TernaryOperator {
 

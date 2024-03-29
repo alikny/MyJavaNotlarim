@@ -1,6 +1,4 @@
-package src.day26_arrays_part3;
-
-import java.util.Arrays;
+package day26_arrays_part3;
 
 public class StringMan_Arrays {
 

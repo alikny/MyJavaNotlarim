@@ -1,4 +1,4 @@
-package src.day44_oopreview.callcenter;
+package day44_oopreview.callcenter;
 
 public class CallCnter {
 

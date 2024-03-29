@@ -1,6 +1,8 @@
-package src.day47_collection_part2;
+package day47_collection_part2;
 
-import java.util.*;
+import java.util.HashSet;
+import java.util.Set;
+import java.util.TreeSet;
 
 public class SetExample {
 

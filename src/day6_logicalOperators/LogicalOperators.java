@@ -1,4 +1,4 @@
-package src.day6_logicalOperators;
+package day6_logicalOperators;
 
 public class LogicalOperators {
 

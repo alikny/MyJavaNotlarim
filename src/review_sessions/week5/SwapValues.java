@@ -1,4 +1,4 @@
-package src.review_sessions.week5;
+package review_sessions.week5;
 
 public class SwapValues {
 
